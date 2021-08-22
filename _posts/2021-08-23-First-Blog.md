@@ -1,5 +1,5 @@
 ---
 layout: post
-title: "MY POST TITLE"
+title: "MY First"
 ---
 I can write blog here... with markdown!
